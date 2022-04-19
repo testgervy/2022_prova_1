@@ -2,7 +2,7 @@ package it.meucci.fattoriale.gervasi;
 
 /**
  * 
- * @author genitori
+ * @author gervasi
  *
  */
 public class FattorialeClass
