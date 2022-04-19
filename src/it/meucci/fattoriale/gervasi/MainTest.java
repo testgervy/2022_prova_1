@@ -2,7 +2,7 @@ package it.meucci.fattoriale.gervasi;
 /**
  * CALCOLO N!
  * 
- *  @version 2 b1
+ *  @version 2 b2
  * @author genitori
  *
  */
